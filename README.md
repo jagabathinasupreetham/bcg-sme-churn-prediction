@@ -8,12 +8,12 @@ This repository contains my end-to-end work for the **BCG X Data Science Job Sim
 * **Strategic Recommendation:** Avoid blanket discounts; focus instead on proactive outreach and targeted retention campaigns for accounts identified as high risk.
 
 ## 📂 Repository Contents
+* **`client_data.csv` & `price_data.csv`** — Dataset used for modeling and analysis.
 * **`EDA.ipynb`** — Exploratory data analysis, descriptive statistics, and distribution checks.
 * **`feature_engineering.ipynb`** — Feature generation (price differences, off-peak metrics, aggregate stats).
 * **`churn prediction.ipynb`** — Random Forest model training, evaluation (Accuracy ~90.4%, Precision, Recall, ROC-AUC), and interpretation.
 * **`BCG X Executive Summary.pdf`** — Executive summary slide synthesized for senior leadership and the Head of the SME division.
 * **`completion_certificate.pdf`** — Forage verification certificate.
-* **`client_data.csv` & `price_data.csv`** — Dataset used for modeling and analysis.
 
 ## 🛠️ Tech Stack & Skills
 * **Languages & Libraries:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib
