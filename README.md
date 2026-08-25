@@ -17,4 +17,4 @@ This repository contains my end-to-end work for the **BCG X Data Science Job Sim
 
 ## 🛠️ Tech Stack & Skills
 * **Languages & Libraries:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib
-* **Techniques:** Exploratory Data Analysis, Feature Engineering, Random Forest Classification, Model Evaluation, Consulting Communication (Pyramid Principle)
+* **Techniques:** Exploratory Data Analysis, Feature Engineering, Random Forest Classification, Model Evaluation, Consulting Communication (Pyramid Principl)
