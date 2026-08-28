@@ -5,7 +5,7 @@
 ---
 
 ## 📊 Summary Preview
-![Summary Preview](bcgx_summary.png)
+![Summary Preview](BCGX_EXECUTIVE_SUMMARY.pdf)
 
 ---
 
